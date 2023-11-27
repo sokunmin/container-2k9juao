@@ -13,10 +13,10 @@ COPY ./requirements.txt /app/requirements.txt
 RUN pip install -U -r requirements.txt
 
 
-#EXPOSE 5003
+EXPOSE 5003
 
 #ENTRYPOINT ["tail"]
 #CMD ["-f", "/dev/null"]
 
-CMD ["uvicorn", "test:app", "--host", "0.0.0.0", "--port", "5000"]
+CMD ["uvicorn", "test:app", "--host", "0.0.0.0", "--port", "5003"]
 
