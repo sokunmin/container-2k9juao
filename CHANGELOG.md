@@ -1,3 +1,15 @@
+# v0.0.7 (Mon Nov 27 2023)
+
+#### ⚠️ Pushed to `main`
+
+- feat: change to echo api (jimmy_su@chiconypower.com)
+
+#### Authors: 1
+
+- Jimmy Su (jimmy_su@chiconypower.com)
+
+---
+
 # v0.0.6 (Mon Nov 27 2023)
 
 #### ⚠️ Pushed to `main`
