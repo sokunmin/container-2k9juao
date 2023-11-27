@@ -20,5 +20,5 @@ EXPOSE 5003
 #ENTRYPOINT ["tail"]
 #CMD ["-f", "/dev/null"]
 
-CMD ["uvicorn", "test:app", "--host", "0.0.0.0", "--port", "5003"]
+CMD ["uvicorn", "echo:app", "--host", "0.0.0.0", "--port", "5003"]
 
