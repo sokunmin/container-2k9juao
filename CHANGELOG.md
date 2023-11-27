@@ -1,3 +1,15 @@
+# v0.0.5 (Mon Nov 27 2023)
+
+#### ⚠️ Pushed to `main`
+
+- feat: turn off expose port (jimmy_su@chiconypower.com)
+
+#### Authors: 1
+
+- Jimmy Su (jimmy_su@chiconypower.com)
+
+---
+
 # v0.0.4 (Mon Nov 27 2023)
 
 #### ⚠️ Pushed to `main`
