@@ -15,7 +15,7 @@ COPY ./requirements.txt /app/requirements.txt
 RUN pip install -U -r requirements.txt
 
 
-#EXPOSE 5003
+EXPOSE 5003
 
 #ENTRYPOINT ["tail"]
 #CMD ["-f", "/dev/null"]
