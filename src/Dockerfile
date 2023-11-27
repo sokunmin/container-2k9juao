@@ -3,7 +3,9 @@ FROM python:3-alpine
 
 ENV PYTHONUNBUFFERED=1
 
-RUN apk update && apk add --no-cache git gcc musl-dev ssh-askpass
+RUN apk update && apk add --no-cache git gcc musl-dev
+#RUN python -m pip install --upgrade certifi
+
 WORKDIR /app
 
 COPY app/echo.py /app/echo.py
