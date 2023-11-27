@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Nov 27 2023)
+
+#### ⚠️ Pushed to `main`
+
+- feat: add FastAPI endpoints and install packages (jimmy_su@chiconypower.com)
+
+#### Authors: 1
+
+- Jimmy Su (jimmy_su@chiconypower.com)
+
+---
+
 # v0.0.1 (Sun Nov 26 2023)
 
 :tada: This release contains work from a new contributor! :tada:
