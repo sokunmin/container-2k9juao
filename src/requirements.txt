@@ -5,3 +5,4 @@ openai==0.28.1
 langchain==0.0.330
 fastapi
 uvicorn
+model-client

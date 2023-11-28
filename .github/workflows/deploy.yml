@@ -33,3 +33,6 @@ jobs:
         run: |
           set -x
           ./.container-hosting/deploy.sh
+      - name: Run script
+        run: |
+          echo "DOKKU_HOST: $DOKKU_HOST"

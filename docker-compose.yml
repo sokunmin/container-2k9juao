@@ -5,6 +5,7 @@ services:
     image: container-2k9juao
     build:
       context: ./src
+#      dockerfile: modal.Dockerfile
     ports:
       - "5003:5003"
     volumes:
