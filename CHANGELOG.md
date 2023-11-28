@@ -1,3 +1,15 @@
+# v0.0.8 (Tue Nov 28 2023)
+
+#### ⚠️ Pushed to `main`
+
+- feat: combine endpoints together ([@sokunmin](https://github.com/sokunmin))
+
+#### Authors: 1
+
+- Chun-Ming Su ([@sokunmin](https://github.com/sokunmin))
+
+---
+
 # v0.0.7 (Mon Nov 27 2023)
 
 #### ⚠️ Pushed to `main`
