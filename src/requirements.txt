@@ -1,8 +1,8 @@
+fastapi
+uvicorn
 fastapi-poe==0.0.23
 huggingface-hub==0.16.4
 pydantic>=2
 openai==0.28.1
 langchain==0.0.330
-fastapi
-uvicorn
-model-client
+modal-client

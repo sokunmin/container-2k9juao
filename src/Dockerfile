@@ -9,10 +9,9 @@ RUN apk update && apk add --no-cache git gcc musl-dev
 WORKDIR /app
 
 COPY app/echo.py /app/echo.py
-COPY app/test.py /app/test.py
-COPY ./requirements.txt /app/requirements.txt
+COPY requirements.txt /app/requirements.txt
 
-RUN pip install -U -r requirements.txt
+RUN pip install -r requirements.txt
 
 
 EXPOSE 5003
