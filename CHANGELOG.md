@@ -1,3 +1,15 @@
+# v0.0.9 (Wed Nov 29 2023)
+
+#### ⚠️ Pushed to `main`
+
+- feat: fix endpoint bugs (jimmy_su@chiconypower.com)
+
+#### Authors: 1
+
+- Jimmy Su (jimmy_su@chiconypower.com)
+
+---
+
 # v0.0.8 (Tue Nov 28 2023)
 
 #### ⚠️ Pushed to `main`
