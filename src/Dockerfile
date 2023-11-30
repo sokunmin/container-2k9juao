@@ -31,5 +31,4 @@ RUN pip install jinja2==3.0.3
 RUN modal token new --source poe
 
 
-ENTRYPOINT ["tail"]
-CMD["-f", "/dev/null"]
+ENTRYPOINT ["sleep", "infinity"]
