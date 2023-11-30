@@ -6,7 +6,8 @@ services:
     build:
       context: ./src
     ports:
-      - "5003:5003"
+#      - "5003:5003"
+      - "80:80"
     volumes:
       - type: bind
         source: ./src/web
