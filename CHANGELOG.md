@@ -1,3 +1,15 @@
+# v0.0.10 (Thu Nov 30 2023)
+
+#### ⚠️ Pushed to `main`
+
+- feat: change to modal library ([@sokunmin](https://github.com/sokunmin))
+
+#### Authors: 1
+
+- Chun-Ming Su ([@sokunmin](https://github.com/sokunmin))
+
+---
+
 # v0.0.9 (Wed Nov 29 2023)
 
 #### ⚠️ Pushed to `main`
